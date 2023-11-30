@@ -6,4 +6,4 @@ For this challenge we had to fix an exisiting application and implement MERN sta
 ## Deployment
 
 GitHub Repo - https://github.com/sjgresha/Mern-Book-Search-Engine
-Heroku - 
+Heroku - *Coming Soon* 
